@@ -1,0 +1,15 @@
+{
+    "name": "tnam/hello",
+    "description": "Example composer package",
+    "type": "php",
+    "license": "x",
+    "authors": [
+        {
+            "name": "nam",
+            "email": "nguyentiennam1999hp@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2.0"
+    }
+}
